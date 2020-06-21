@@ -1,0 +1,9 @@
+main: tk.okame.plugins.SimpleWorldGen.Main
+name: SimpleWorldGenerator
+version: 1.0.0
+load: STARTUP
+author: Okame
+commands: 
+  getfactor:
+    usage: /getfactor
+api-version: '1.13'
